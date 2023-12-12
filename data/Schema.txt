@@ -1,0 +1,6 @@
+Files ✅ {
+    - Users [id - email - username - password - role]
+    - Subjects [id - name - [Students IDs] - [Lecturers IDs]]
+    - Exams [id - Subject ID - Duration -[Questions] - [Answers]] 
+    - Reports [id - Lecturer ID - Student ID - Info]
+}

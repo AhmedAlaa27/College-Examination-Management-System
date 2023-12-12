@@ -1,0 +1,5 @@
+1, admin, admin@gmail.com, 12345, ADMIN
+2, lecturer, lecturer@gmail.com, 12345, LECTURER
+3, user, user@gmail.com, 12345, USER
+4, student, student@gmail.com, 12345, STUDENT
+5, ahmed, ahmed@gmail.com, 12345, STUDENT
